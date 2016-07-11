@@ -14,14 +14,17 @@
     "namespace",
     "module"
   ],
-  "author": "Josh Goldberg <joshuakgoldberg@outlook.com>",
+  "author": {
+    "name": "Josh Goldberg",
+    "email": "joshuakgoldberg@outlook.com>"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Joshuakgoldberg/gulp-typespace/issues"
   },
   "homepage": "https://github.com/Joshuakgoldberg/gulp-typespace#readme",
   "dependencies": {
-    "typespace": "^0.1.3",
+    "typespace": "^0.1.4",
     "vinyl-source-stream": "^1.1.0"
   }
 }
