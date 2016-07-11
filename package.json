@@ -1,6 +1,6 @@
 {
   "name": "gulp-typespace",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "Typespace plugin for Gulp.",
   "main": "lib/gulp-typespace",
   "repository": {
