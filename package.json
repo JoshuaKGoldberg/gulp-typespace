@@ -1,6 +1,6 @@
 {
   "name": "gulp-typespace",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Typespace plugin for Gulp.",
   "main": "lib/gulp-typespace",
   "repository": {
@@ -21,10 +21,7 @@
   },
   "homepage": "https://github.com/Joshuakgoldberg/gulp-typespace#readme",
   "dependencies": {
-    "typespace": "^0.1.2",
+    "typespace": "^0.1.3",
     "vinyl-source-stream": "^1.1.0"
-  },
-  "devDependencies": {
-    "gulp-eslint": "^3.0.1"
   }
 }
