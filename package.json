@@ -1,11 +1,8 @@
 {
   "name": "gulp-typespace",
-  "version": "1.0.0",
-  "description": "Gulp wrapper around Typespace.",
-  "main": "bin/gulp-typespace",
-  "scripts": {
-    "test": "gulp test"
-  },
+  "version": "0.1.2",
+  "description": "Typespace plugin for Gulp.",
+  "main": "lib/gulp-typespace",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Joshuakgoldberg/gulp-typespace.git"
@@ -24,15 +21,10 @@
   },
   "homepage": "https://github.com/Joshuakgoldberg/gulp-typespace#readme",
   "dependencies": {
-    "through2": "^2.0.1",
-    "transform": "^1.1.2",
-    "typespace": "^0.1.0"
+    "typespace": "^0.1.2",
+    "vinyl-source-stream": "^1.1.0"
   },
   "devDependencies": {
-    "@types/node": "^4.0.26-alpha",
-    "gulp": "^3.9.1",
-    "gulp-tslint": "^5.0.0",
-    "gulp-typescript": "^2.13.6",
-    "tslint": "^3.13.0"
+    "gulp-eslint": "^3.0.1"
   }
 }
