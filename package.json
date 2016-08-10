@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/Joshuakgoldberg/gulp-typespace#readme",
   "dependencies": {
-    "typespace": "^0.1.8",
+    "typespace": "^0.1.10",
     "vinyl-source-stream": "^1.1.0"
   }
 }
